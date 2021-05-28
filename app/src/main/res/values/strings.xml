@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">dateTime</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="timezones">
+        <item>select Time Zones</item>
+        <item>America/Aqtau</item>
+        <item>Canada/Yukon</item>
+        <item>Australia/Victoria</item>
+        <item>Asia/Kuwait</item>
+        <item>Hongkong</item>
+    </string-array>
+</resources>
